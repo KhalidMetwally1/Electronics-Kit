@@ -1,0 +1,8 @@
+                                                 -:فيديو عن الدائره
+
+https://youtu.be/PIsNKq9kDTQ?si=gdiNIOJCxVpWf4rP
+
+                                                  -: المختصر المفيد 
+square wave هتجبلي osciallatorالدائره عباره عن 
+triangle wave هتجبلي integreatorثم بدخلها علي 
+ sin wave هتجبلي integreator ثم بدخلها علي  
