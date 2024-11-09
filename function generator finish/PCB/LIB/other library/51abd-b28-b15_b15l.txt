@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-14062022-038154";"";
+"REFERENCE";"51ABD-B28-B15/B15L";"";
+"TraceParts.PartTitle";"Sealed 1/2? Sq Control, 1Turn,20%,10/10K";"";
+"TraceParts.InstanceId";"90-14062022-0381542N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Sealed 1/2? Sq Control, 1Turn,20%,10/10K";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:90-14062022-038154";"";
